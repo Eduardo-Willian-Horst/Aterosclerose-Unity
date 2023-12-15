@@ -1,0 +1,16 @@
+{
+  "especializationQuestions": [
+    {
+      "id": 1,
+      "pergunta": "Onde nasceu Cristiano Ronaldo?",
+      "opcoes": ["Inglaterra", "Argentina", "Brasil", "Portugal"],
+      "respostaCorreta": "Portugal"
+    },
+    {
+      "id": 2,
+      "pergunta": "Quanto é 10/2?",
+      "opcoes": ["3", "4", "5", "6"],
+      "respostaCorreta": "5"
+    }
+  ]
+}

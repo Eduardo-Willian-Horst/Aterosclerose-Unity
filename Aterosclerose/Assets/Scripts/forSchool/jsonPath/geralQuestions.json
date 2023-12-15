@@ -1,0 +1,28 @@
+{
+  "geralquestions": [
+    {
+      "id": 1,
+      "pergunta": "Qual é a capital da França?",
+      "opcoes": ["Londres", "Berlim", "Paris", "Madri"],
+      "respostaCorreta": "Paris"
+    },
+    {
+      "id": 2,
+      "pergunta": "Quanto é 2 + 2?",
+      "opcoes": ["3", "4", "5", "6"],
+      "respostaCorreta": "4"
+    },
+    {
+      "id": 3,
+      "pergunta": "Quanto é 5 + 8?",
+      "opcoes": ["13", "14", "85", "16"],
+      "respostaCorreta": "13"
+    },
+   { 
+    "id": 4,
+    "pergunta": "quem e o mais brabo do lci",
+    "opcoes": ["brusso", "dalton", "lucas", "gui"],
+    "respostaCorreta": "brusso"
+  }
+  ]
+}

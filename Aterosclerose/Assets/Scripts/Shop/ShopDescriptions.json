@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nome": "KIT",
+        "descricao": "Um kit especial para o primeiro dia de trabalho de um médico. Contêm uns bagulhos que eu esqueci o nome."
+    },
+    {
+        "id": 2,
+        "nome": "XRAY",
+        "descricao": "Uma maquina grande. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed maximus volutpat fringilla. Nullam commodo ut diam vitae varius. Vestibulum venenatis orci tincidunt placerat aliquam. Nulla mollis est ac libero tempor fermentum. Vestibulum a est nec dolor pretium auctor. Etiam varius venenatis eleifend. Integer fermentum consectetur commodo. Fusce finibus ornare nisi, nec pharetra lacus maximus ac. In in ex porta, finibus velit eget, pretium tortor."
+    },
+    {
+        "id": 3,
+        "nome": "tres",
+        "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed maximus volutpat fringilla. Nullam commodo ut diam vitae varius. Vestibulum venenatis orci tincidunt placerat aliquam. Nulla mollis est ac libero tempor fermentum. Vestibulum a est nec dolor pretium auctor. Etiam varius venenatis eleifend. Integer fermentum consectetur commodo. Fusce finibus ornare nisi, nec pharetra lacus maximus ac. In in ex porta, finibus velit eget, pretium tortor."
+    },
+    {
+        "id": 4,
+        "nome": "quatro",
+        "descricao": "Aqui é pouca coisa"
+    }
+  ]
+  

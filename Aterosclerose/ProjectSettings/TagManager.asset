@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - invisibleButton
+  - DestroyBallPacMedic
+  - Left_Portal
+  - Right_Portal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - SolidObjects
+  - Interactable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Fade
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2595401947
+    locked: 0
+  - name: SideWalk
+    uniqueID: 4081262449
+    locked: 0
+  - name: Foreground
+    uniqueID: 690525845
+    locked: 0
+  - name: Props
+    uniqueID: 1312379233
+    locked: 0
+  - name: Player
+    uniqueID: 768200087
+    locked: 0
+  - name: PropsUpper
+    uniqueID: 2097538059
+    locked: 0
+  - name: UI Layer
+    uniqueID: 2781572181
+    locked: 0
+  - name: Fade
+    uniqueID: 4163545193
+    locked: 0
